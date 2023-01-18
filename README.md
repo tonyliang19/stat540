@@ -29,13 +29,13 @@ This interdisciplinary course requires a broad range of skills at the interfaceo
 
 - No experience required but be prepared to do a lot of self-guided learning if you haven't taken other courses on R or used it in your research.
 - Start now by installing [R](https://cran.r-project.org/) and the HIGHLY RECOMMENDED "integratrive.html).ed development cts/rstudio/downloaou are new to R, check out [this blog post on getting started with R](http://santina.me/Get-started-with-R/).
-- [This free online https://rafalab.github with R, programming basics, and the tidyverse. In particular se.html)
+- [This free online resource with R, programming basics, and the tidyverse](http://rafalab.dfci.harvard.edu/)
   - [Chapter 2: R Basics](https://rafalab.github.io/dsbook/r-basics.html)
   - [Chapter 3: Programming Basics](https://rafalab.github.io/dsbook/programming-basics.h.io/dsbook/talab.github.io/dsbook/importing-data.html)
   
 ### Git/GitHub and R Markdown:
 
 - In this course we'll be using the version conits web-based hosting awiki/GitHub). 
-- [The online resource "Ha://happygitwithr.com/) is a great reference for these tools as we learn them.
+- [The online resource](https://happygitwithr.com/) is a great reference for these tools as we learn them.
 - Another helpful git resource is [Hadley Wickham's webinar "Collaboration and time travel- version control with git, github and RStudio"](https://rstudio.com/resources/webinars/collaboration-and-time-travel-version-control-with-git-github-an-rstudio/)
--d
+
